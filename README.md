@@ -17,7 +17,7 @@ Sou uma Arquiteta e Urbanista procurando me aventurar na área da tecnologia! At
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissatoyohashi=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissatoyohashi&show_icons=true)
 
 <!---
 larissatoyohashi/larissatoyohashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
