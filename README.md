@@ -1,6 +1,6 @@
 ## 👾 Olá, meu nome é {Larissa}!
 
-Sou uma Arquiteta e Urbanista procurando me aventurar na área da tecnologia! Atualmente estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma na FATEC de Registro.
+Sou uma Arquiteta e Urbanista procurando me aventurar na área da tecnologia! Atualmente estou cursando o terceiro semestre de Desenvolvimento de Software Multiplataforma na FATEC de Registro.
 
 ---
 
